@@ -1,1 +1,1 @@
-# Golden-State-Warriors-Turkiye
+# Golden State Warriors Turkiye
