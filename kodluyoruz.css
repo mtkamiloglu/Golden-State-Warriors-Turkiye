@@ -1,0 +1,28 @@
+#brand-name {
+    font-family: 'Alfa Slab One', cursive;
+    text-align: center;
+    color: #fcc62c;
+    
+}
+
+.center {
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+    color: #fcc62c;
+}
+
+.list-center{
+    list-style-position: inside;
+    display: table; 
+    text-align: left;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #0446ac;
+}
+
+a {
+    color: aliceblue;
+}
